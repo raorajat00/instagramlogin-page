@@ -101,12 +101,13 @@
 .text4 {
     margin-left: 60px;
     margin-top: 30px ;
-    color: blue;
+    color:black;
     display: flex;
 }
 
 .text5 {
     margin-left: 5px;
+    color: blue;
 }
 
 .text6 {
